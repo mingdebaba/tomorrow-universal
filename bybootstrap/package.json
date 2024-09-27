@@ -1,0 +1,14 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "tomorrow-universal",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "homepage"
+  ],
+  "author": "mingde wu",
+  "license": "ISC"
+}
