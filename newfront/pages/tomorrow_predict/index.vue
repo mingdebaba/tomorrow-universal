@@ -1,5 +1,6 @@
 <template>
     <layout-wrapper>
+        <layout-header></layout-header>
         <a>
             asd
         </a>

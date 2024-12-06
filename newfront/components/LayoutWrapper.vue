@@ -10,6 +10,7 @@ export default {
 }
 </script>
 
+
 <style scoped>
 .wrapper {
   padding-top: 0;

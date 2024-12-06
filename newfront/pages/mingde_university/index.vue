@@ -1,5 +1,6 @@
 <template>
   <layout-wrapper>
+    <layout-header></layout-header>
     <layout-visual title="Concept" :height="40" visual="visual-concept" />
     <div class="w-full md:max-w-3xl mx-auto pt-20 px-6 md:px-0">
     <h3 class="text-2xl text-red-800 font-extrabold mb-5 text-center">
